@@ -1,6 +1,6 @@
 # Todolistevue
 
-Réalisation d'une To do liste 
+Réalisation d'une To do liste
 
 ## Date :
 
@@ -20,8 +20,7 @@ Terminé
 
 ## Liens utiles :
 
-lien des consignes : 
+lien des consignes :
 
-lien github page : 
-## Aperçu du site : (Todoliste.png)
-
+lien github page :
+## Aperçu du site : [Todoliste](Todoliste.png)
