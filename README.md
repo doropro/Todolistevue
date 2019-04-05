@@ -20,7 +20,6 @@ Terminé
 
 ## Liens utiles :
 
-lien des consignes :
+lien github page : (https://doropro.github.io/Todolistevue/dist)
 
-lien github page :
 ## Aperçu du site : (Todoliste.png)
