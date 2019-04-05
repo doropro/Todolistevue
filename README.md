@@ -23,4 +23,4 @@ Terminé
 lien des consignes :
 
 lien github page :
-## Aperçu du site : [Todoliste](Todoliste.png)
+## Aperçu du site : (Todoliste.png)
