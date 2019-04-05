@@ -22,4 +22,4 @@ Terminé
 
 lien github page : (https://doropro.github.io/Todolistevue/dist)
 
-## Aperçu du site : (Todoliste.png)
+## Aperçu du site : ![screenshot Todoliste](Todoliste.png)
